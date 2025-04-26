@@ -1,2 +1,6 @@
 This is file b in main branch
+<<<<<<< HEAD
 This is file b in bike branch edited one
+
+This is file b in car branch edited one
+>>>>>>> car
